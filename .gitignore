@@ -30,3 +30,10 @@ example/ofxARToolKitPlusExample.xcodeproj/xcshareddata/xcschemes/ofxARToolKitPlu
 example/ofxARToolKitPlusExample.xcodeproj/project.xcworkspace/xcuserdata/jameskong.xcuserdatad/UserInterfaceState.xcuserstate
 
 example/ofxARToolKitPlusExample.xcodeproj/project.xcworkspace/xcuserdata/jameskong.xcuserdatad/UserInterfaceState.xcuserstate
+*.db
+*.exe
+*.exp
+*.dll
+*.lib
+*.filters
+*.user
